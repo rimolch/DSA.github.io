@@ -4,7 +4,7 @@
 # Or Click here to go other repository
 <p>
   <a href ="https://github.com/rimolch/C-4-learning/tree/main/Bubble_sort">
-    Click here 
-    </p>
+    <b>Click here</b>
+</p>
     
 
