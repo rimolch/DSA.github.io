@@ -108,7 +108,8 @@ int main(){
     int a[30];
     printf("Enter no of elements:"); 
       scanf("%d",&n);    
-     	printf("Enter array elements:\n"); 	 	     for(i=0;i<n;i++){ 	
+     	printf("Enter array elements:\n"); 	 	
+    for(i=0;i<n;i++){ 	
         	scanf("%d",&a[i]); 
         } 
  	mergesort(a,0,n-1); 
