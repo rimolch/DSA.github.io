@@ -18,3 +18,6 @@ If r > l
      4. Merge the two halves sorted in step 2 and 3:
 
              Call merge(arr, l, m, r)
+ 
+ # Diagram of merge_sort 
+ ![Merge-Sort-Tutorial](https://user-images.githubusercontent.com/67545874/111894444-f51a3500-8a34-11eb-83b2-56eb97c8f150.png)
