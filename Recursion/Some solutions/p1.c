@@ -1,5 +1,5 @@
 //Problem 1
-
+//print the natural number from 1 to n
 #include<stdio.h>
 
 void print_N(int n)
